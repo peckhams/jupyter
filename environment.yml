@@ -19,4 +19,4 @@ dependencies:
     - autocorrect==0.3.0
     - cfunits==1.1.4
     - pydap==3.2.2
-    - pyenchant==2.0.0
+#    - pyenchant==2.0.0
