@@ -1,0 +1,22 @@
+# This environment.yml file is from the binder icon link on
+# the dynamic ipyleaflet page at: http://jupyter.org/widgets
+# with the addition of nltk and pip-installed packages.
+# It is much smaller than what you get by installing ipyleaflet
+# in a new conda environment and then exporting that environment.
+name: ipyleaflet
+channels:
+  - conda-forge
+dependencies:
+  - ipyleaflet =0.9.0
+  - matplotlib
+  - nltk
+  - pillow
+  - rasterio
+  - requests
+  - scipy
+  - tqdm
+  - pip:
+    - autocorrect==0.3.0
+    - cfunits==1.1.4
+    - pydap==3.2.2
+    - pyenchant==2.0.0
