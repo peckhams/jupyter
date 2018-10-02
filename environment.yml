@@ -18,7 +18,10 @@ dependencies:
   - scipy
   - tqdm
   - pip:
-    - autocorrect==0.3.0
-    - cfunits==1.1.4
-    - pydap==3.2.2
-
+    - autocorrect
+    - beautifulsoup4
+    - cfunits
+    - gensim
+    - indra
+    - lxml
+    - pydap
