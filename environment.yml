@@ -19,9 +19,9 @@ dependencies:
   - tqdm
   - pip:
     - autocorrect
-    - beautifulsoup4
-    - cfunits
     - lxml
     - pydap
+#   - beautifulsoup4
+#   - cfunits
 #   - gensim
 #   - indra  # causing problems for Binder
