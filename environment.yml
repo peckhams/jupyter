@@ -21,7 +21,7 @@ dependencies:
     - autocorrect
     - beautifulsoup4
     - cfunits
-    - gensim
-    # - indra  # causing problems for Binder
     - lxml
     - pydap
+#   - gensim
+#   - indra  # causing problems for Binder
