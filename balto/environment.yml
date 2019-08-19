@@ -1,0 +1,11 @@
+# This environment.yml file is for use by Binder to set up a
+# cloud-based server for running Jupyter notebooks in this folder.
+
+name: balto
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - ipyleaflet
+  - IPython
+  - pydap
